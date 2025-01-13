@@ -7,11 +7,6 @@
 
 📃 [리블링스 발표자료 PDF](https://github.com/user-attachments/files/17436078/lieblings_.pdf)
 
-
-📁 [Back Repository](https://github.com/SeSAC-2nd/SeSAC-2nd-Back)
-
-📁 [Front Repository](https://github.com/SeSAC-2nd/SeSAC-2nd-Front)
-
 📝 [프로젝트 회고록 및 트러블슈팅](https://mont-blanc.tistory.com/71)
 
 <br/>
